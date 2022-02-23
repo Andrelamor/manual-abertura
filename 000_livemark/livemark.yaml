@@ -1,5 +1,5 @@
 brand:
-  text: Butiquin Pai-ta-on
+  text: Manual
 about:
   text: A Python Study Material
 github:
@@ -15,16 +15,16 @@ site:
     - 000_livemark/assets/stylesheets/script.js
 pages:
   items:
-    - path: 001_setup/README
+    - path: manual-abertura/001_setup/README
     - name: Warm-up
       items:
-        - path: 002_warm_up/001_terminal_101/README
-        - path: 002_warm_up/002_version_control_101/README
+        - path: manual-abertura/002_warm_up/001_terminal_101/README
+        - path: manual-abertura/002_warm_up/002_version_control_101/README
     - name: Python Essential
       items:
-        - path: 003_python_essentials/001_variables/README
-        - path: 003_python_essentials/002_strings/README
-        - path: 003_python_essentials/002_strings/LEIAME
+        - path: manual-abertura/003_python_essentials/001_variables/README
+        - path: manual-abertura/003_python_essentials/002_strings/README
+        - path: manual-abertura/003_python_essentials/002_strings/LEIAME
 
 links:
   items:
