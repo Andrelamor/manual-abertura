@@ -1,8 +1,12 @@
 # Build pages
 livemark build 000_livemark/index.md --target ./index.html --config 000_livemark/livemark.yaml && \
-livemark build manual-abertura/001_setup/README.md --target manual-abertura/001_setup/README.html --config 000_livemark/livemark.yaml && \
-livemark build manual-abertura/002_warm_up/001_terminal_101/README.md --target manual-abertura/002_warm_up/001_terminal_101/README.html --config 000_livemark/livemark.yaml && \
-livemark build manual-abertura/002_warm_up/002_version_control_101/README.md --target manual-abertura/002_warm_up/002_version_control_101/README.html --config 000_livemark/livemark.yaml && \
+livemark build manual-abertura/001_Dados_Abertos/README.md --target manual-abertura/001_Dados_Abertos/README.html --config 000_livemark/livemark.yaml && \
+livemark build manual-abertura/002_Etapas_da_Abertura/001_Documentação/README.md --target manual-abertura/002_Etapas_da_Abertura/001_Documentação/README.html --config 000_livemark/livemark.yaml && \
+livemark build manual-abertura/002_Etapas_da_Abertura/002_Limpeza_de_Dados/README.md --target manual-abertura/002_Etapas_da_Abertura/002_Limpeza_de_Dados/README.html --config 000_livemark/livemark.yaml && \html
+livemark build manual-abertura/002_Etapas_da_Abertura/003_Restrição_de_Informações/README.md --target manual-abertura/002_Etapas_da_Abertura/003_Restrição_de_Informações/README.html - 000_livemark/livemark.yaml && \
+livemark build manual-abertura/002_Etapas_da_Abertura/004_Validação_dos_Dados/README.md --target manual-abertura/002_Etapas_da_Abertura/004_Validação_dos_Dados/README.html --config 000_livemark/livemark.yaml && \
+livemark build manual-abertura/002_Etapas_da_Abertura/005_Controle_de_Versão/README.md --target manual-abertura/002_Etapas_da_Abertura/005_Controle_de_Versão/README.html --config 000_livemark/livemark.yaml && \
+livemark build manual-abertura/002_Etapas_da_Abertura/006_Catalogação_Inicial/README.md --target manual-abertura/002_Etapas_da_Abertura/006_Catalogação_Inicial/README.html --config 000_livemark/livemark.yaml && \
 livemark build manual-abertura/003_python_essentials/001_variables/README.md --target manual-abertura/003_python_essentials/001_variables/README.html --config 000_livemark/livemark.yaml && \
 livemark build manual-abertura/003_python_essentials/002_strings/README.md --target manual-abertura/003_python_essentials/002_strings/README.html --config 000_livemark/livemark.yaml && \
 livemark build manual-abertura/003_python_essentials/002_strings/LEIAME.md --target manual-abertura/003_python_essentials/002_strings/LEIAME.html --config 000_livemark/livemark.yaml && \
