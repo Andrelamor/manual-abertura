@@ -1,10 +1,10 @@
 brand:
   text: Manual
 about:
-  text: A Python Study Material
+  text: Um protótipo do Manual de Abertura de Dados de MG
 github:
-  user: transparencia-mg
-  repo: pai-ta-on
+  user: andrelamor
+  repo: manual-abertura
 topics:
   selector: h2
 site:
@@ -15,16 +15,18 @@ site:
     - 000_livemark/assets/stylesheets/script.js
 pages:
   items:
-    - path: manual-abertura/001_setup/README
-    - name: Warm-up
+    - path: manual-abertura/001_Dados_Abertos/README
+    - name: Dados Abertos
       items:
-        - path: manual-abertura/002_warm_up/001_terminal_101/README
-        - path: manual-abertura/002_warm_up/002_version_control_101/README
-    - name: Python Essential
+        - path: manual-abertura/002_Etapas_da_Abertura/README
+    - name: Etapas do Processo de Abertura de Dados
       items:
-        - path: manual-abertura/003_python_essentials/001_variables/README
-        - path: manual-abertura/003_python_essentials/002_strings/README
-        - path: manual-abertura/003_python_essentials/002_strings/LEIAME
+        - path: manual-abertura/002_Etapas_da_Abertura/001_Documentação/README
+        - path: manual-abertura/002_Etapas_da_Abertura/002_Limpeza_de_Dados/README
+        - path: manual-abertura/002_Etapas_da_Abertura/003_Restrição_de_Informações/README
+        - path: manual-abertura/002_Etapas_da_Abertura/004_Validação_dos_Dados/README
+        - path: manual-abertura/002_Etapas_da_Abertura/005_Controle_de_Versão/README
+        - path: manual-abertura/002_Etapas_da_Abertura/006_Catalogação_Inicial/README
 
 links:
   items:
