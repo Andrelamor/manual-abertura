@@ -8,7 +8,7 @@ O conjunto de ferramentas da especificação Frictionless permite automatizar a 
 
 [](!static/dados-validos.png)
 
-Uma lista compreensiva dos erros de validação mais comuns encontra-se em [](), da qual um resumo pode ser visto abaixo:
+Uma lista compreensiva dos erros de validação mais comuns pode ser acessada [aqui](https://github.com/dados-mg/dados-mg.github.io/blob/erros-valiacao/erros-validacao/erros-comuns-validacao.md), da qual um resumo pode ser visto abaixo:
 
 1. Sintaxe do `datapackage.json`:
 
