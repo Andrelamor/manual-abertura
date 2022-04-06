@@ -6,7 +6,7 @@
 
 3. Testes de pubilcação em homologação e solicitação de criação de usuário em ambiente de produção
 
-4. Adesão ao Portal de Dados Abertos e reunião de publicação da base de dados inicial
+4. Criação de usuário no Portal de Dados Abertos e reunião de publicação da base de dados inicial
 
 
 

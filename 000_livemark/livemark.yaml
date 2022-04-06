@@ -18,7 +18,9 @@ pages:
     - path: manual-abertura/001_Dados_Abertos/README
     - name: Dados Abertos
       items:
-        - path: manual-abertura/002_Etapas_da_Abertura/README
+        - path: manual-abertura/001_Dados_Abertos/001_Normas_Princípios_e_Diretrizes
+        - path: manual-abertura/001_Dados_Abertos/002_Metadados
+        - path: manual-abertura/001_Dados_Abertos/003_Portal_de_Dados_Abertos
     - name: Etapas do Processo de Abertura de Dados
       items:
         - path: manual-abertura/002_Etapas_da_Abertura/001_Escolha_das_bases_e_preparação/README

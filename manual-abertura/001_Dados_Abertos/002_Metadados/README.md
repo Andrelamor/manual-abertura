@@ -16,9 +16,12 @@ Fornecer metadados descritivos ([BP2](http://blog.w3c.br/melhores-praticas-dados
 
 Fornecer metadados estruturais ([BP3](http://blog.w3c.br/melhores-praticas-dados-na-web-4-forneca-metadados-com-informacoes-estruturais/)), de forma que pessoas interpretem o esquema de um conjunto de dados e agentes de software sejam capazes de processar automaticamente os dados das distribuições
 
+Os metadados devem, por fim, permitir a interoperabilidade entre diferentes sistemas. 
+
 Um padrão de vocabulário que atende as 3 boas práticas da W3C, e, portanto, tem o poder de reduzir barreiras para o acesso dos dados, e propiciar o seu reúso, é o conjunto de especificações da Frictionless Data, uma entidade afiliada à Open Knowledge Foundation.
 
-Os padrões de epecificação da Fricitonless Data utilizam o formato json para descrição de metadados, e acompanham um conjunto de ferramentas de código aberto para facilitar a documentação e validação dos dados. 
+Os padrões de epecificação da Fricitonless Data utilizam o formato json para descrição de metadados, e acompanham um conjunto de ferramentas de código aberto (bibliotecas, aplicações e instruções em diferentes linguagens) para aplicar os 
+padrões. Dessa maneira, facilitam a gestão de metadados, a extração, a documentação, a limpeza, a organização, a validação e o compartilhamento dos dados. 
 
 Documentação é a etapa de elaborar os documentos de metadados de um conjunto de dados, enquanto que a validação corresponde à verificação se os dados estão de acordo com os metadados descritos.
 
