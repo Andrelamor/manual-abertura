@@ -1,6 +1,29 @@
 # Dados Abertos
 
+## Benefícios esperados
+
+Aumentar a disponibilização e o uso de dados abertos é um objetivo estratégico tanto em [âmbito federal](https://www.governodigital.gov.br/EGD/documentos/revisao-da-estrategia-de-governanca-digital-2016-2019.pdf) quanto em nível estadual (meta PPAG, Estratégia de Governo Digital e metas CGE/MG).
+
+Espera-se que tal objetivo leve à manutenção de um ecossistema que deve promover o cruzamento de dados, o aprimoramento da análise e inteligência de dados dentro do governo, e o uso de dados de governo como um ativo importante na economia digital, estimulando o empreendedorismo e novos modelos de negócio que gerem valor na cadeia digital e beneficiem os cidadãos. 
+
+Dentre outros benefícios esperados da utilização dos dados abertos, podem ser destacados:
+
+• Incremento do controle social diante das ações do governo;
+
+• Transparência na prestação de contas dos resultados e das ações da gestão pública;
+
+• Economia de tempo para atendimento a pedidos por dados e informações governa-
+ mentais;
+
+• Possibilidade de desenvolvimento de pesquisas científicas a partir dos dados disponi-
+ bilizados.
+
+Entretanto, para assegurar que a publicação e disponibilização de dados públicos seja um fator motivador de tais benefícios, é preciso observar as regras estabelecidas, princípios e diretrizes.
+
+
 ## Contexto Normativo
+
+A Lei de Acesso à Informação foi o marco inicial da obrigação normativa de disponibilização de bases de dados públicos em formato aberto. Mais recentemente, o tema teve interesse renovado pela edição das Leis de Governo Aberto e o seu respectivo Decreto Estadual regulamentador.
 
 #### Lei de Acesso à Informação (LAI): Lei 12.527 de 2011
 
@@ -69,7 +92,6 @@ Art. 27 – O compartilhamento amplo de dados dispensa autorização prévia pel
 
 Acesse o decreto 48.383[aqui](https://www.almg.gov.br/consulte/legislacao/completa/completa.html?tipo=DEC&num=48383&comp=&ano=2022)
 
-
 ## Princípios e Diretrizes
 
 . [Leis dos Dados Abertos](https://eaves.ca/2009/09/30/three-law-of-open-government-data/) - por David Eaves:
@@ -103,7 +125,9 @@ Os formatos `.PDF, .DOC, .DOCX, .XLS e .XLSX` são INCOMPATÍVEIS com a filosofi
 
 ★ ★★ ★★ : dados conectados (exemplo?) LOD
 
+Nessa escala, o dado é considerado efetivamente aberto quando alcança o nível de três estrelas.
 
+As demais estrelas fornecem mais possibilidades, como navegar mais facilmente por eles e encontrar novas informações e relações.
 
 
 

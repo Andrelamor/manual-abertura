@@ -21,12 +21,13 @@ pages:
         - path: manual-abertura/002_Etapas_da_Abertura/README
     - name: Etapas do Processo de Abertura de Dados
       items:
-        - path: manual-abertura/002_Etapas_da_Abertura/001_Documentação/README
-        - path: manual-abertura/002_Etapas_da_Abertura/002_Limpeza_de_Dados/README
-        - path: manual-abertura/002_Etapas_da_Abertura/003_Restrição_de_Informações/README
-        - path: manual-abertura/002_Etapas_da_Abertura/004_Validação_dos_Dados/README
-        - path: manual-abertura/002_Etapas_da_Abertura/005_Controle_de_Versão/README
-        - path: manual-abertura/002_Etapas_da_Abertura/006_Catalogação_Inicial/README
+        - path: manual-abertura/002_Etapas_da_Abertura/001_Escolha_das_bases_e_preparação/README
+        - path: manual-abertura/002_Etapas_da_Abertura/002_Documentação/README
+        - path: manual-abertura/002_Etapas_da_Abertura/003_Limpeza_de_Dados/README
+        - path: manual-abertura/002_Etapas_da_Abertura/004_Restrição_de_Informações/README
+        - path: manual-abertura/002_Etapas_da_Abertura/005_Validação_dos_Dados/README
+        - path: manual-abertura/002_Etapas_da_Abertura/006_Controle_de_Versão/README
+        - path: manual-abertura/002_Etapas_da_Abertura/007_Catalogação_Inicial/README
 
 links:
   items:
