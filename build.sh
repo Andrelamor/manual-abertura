@@ -9,7 +9,7 @@ livemark build manual-abertura/002_Etapas_da_Abertura/003_Limpeza_de_Dados/READM
 livemark build manual-abertura/002_Etapas_da_Abertura/004_Restrição_de_Informações/README.md --target manual-abertura/002_Etapas_da_Abertura/004_Restrição_de_Informações/README.html --config 000_livemark/livemark.yaml && \
 livemark build manual-abertura/002_Etapas_da_Abertura/005_Validação_dos_Dados/README.md --target manual-abertura/002_Etapas_da_Abertura/005_Validação_dos_Dados/README.html --config 000_livemark/livemark.yaml && \
 livemark build manual-abertura/002_Etapas_da_Abertura/006_Controle_de_Versão/README.md --target manual-abertura/002_Etapas_da_Abertura/006_Controle_de_Versão/README.html --config 000_livemark/livemark.yaml && \
-livemark build manual-abertura/002_Etapas_da_Abertura/007_Catalogação_Inicial/README.md --target manual-abertura/002_Etapas_da_Abertura/007_Catalogação_Inicial/README.html --config 000_livemark/livemark.yaml && \
+livemark build manual-abertura/002_Etapas_da_Abertura/007_Catalogação_Inicial/README.md --target manual-abertura/002_Etapas_da_Abertura/007_Catalogação_Inicial/README.html --config 000_livemark/livemark.yaml
 
 # Start server to test builded pages
 # livemark start 000_livemark/index.md --target ./index.html --config 000_livemark/livemark.yaml
