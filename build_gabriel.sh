@@ -12,4 +12,4 @@ livemark build manual-abertura/002_Etapas_da_Abertura/006_Controle_de_Versão/RE
 livemark build manual-abertura/002_Etapas_da_Abertura/007_Catalogação_Inicial/README.md --target manual-abertura/002_Etapas_da_Abertura/007_Catalogação_Inicial/README.html --config 000_livemark/livemark.yaml && \
 
 # Start server to test builded pages
-livemark start 000_livemark/index.md --target ./index.html --config 000_livemark/livemark.yaml
+livemark start --host 0.0.0.0 000_livemark/index.md --target ./index.html --config 000_livemark/livemark.yaml

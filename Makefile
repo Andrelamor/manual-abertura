@@ -9,4 +9,4 @@ build: ## Constroi Docker Image
 
 start: ## Inicia Docker Container 
 	@echo 'Iniciando Docker Container...'
-	@docker run -it -v /$(PWD):/work_dir -p 7000:7000 livemark-webserver bash
+	@docker run -it -v /$(PWD):/work_dir -p 7000:7000 gabrielbdornas/dtamg:latest bash
